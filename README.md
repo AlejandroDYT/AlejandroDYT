@@ -1,6 +1,6 @@
 # 🎨 Alejandro José Peña López - Portafolio
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQH32J75LGzJig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714381968725?e=1744848000&v=beta&t=35mDFcfPvOFs4PPD5xxW7uy4XJMZOEpzeW0H9gdxNB8)
 
 ## 🚀 Sobre mí
 👋 ¡Hola! Soy **Alejandro José Peña López**, CEO de **Digiytal S.L** y desarrollador **full stack** especializado en backend. Con más de dos años liderando proyectos tecnológicos, me apasiona la digitalización y la innovación en software.
